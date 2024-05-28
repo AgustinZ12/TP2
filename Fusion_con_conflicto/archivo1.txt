@@ -5,6 +5,5 @@ tercera linea
 modificacion quinta linea en rama master
 modificacion de quinta linea en rama_conflicto
 
-septima linea
-
+modificacion octava linea en rama conflicto 2
 modificacion de archivo 1 en la rama1
