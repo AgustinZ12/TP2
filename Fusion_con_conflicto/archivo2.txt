@@ -1,5 +1,5 @@
 nuevo archivo
 
-en la rama rama_conflicto 2
+modificacion de linea 3 pero ahora en la rama rama_conflicto2
 
 veamos que sucede
