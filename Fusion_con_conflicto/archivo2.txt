@@ -1,0 +1,6 @@
+nuevo archivo
+
+modificacion de linea 3 pero ahora en la rama rama_conflicto2
+modificacion de linea 3 en la rama rama_conflicto3
+
+veamos que sucede
