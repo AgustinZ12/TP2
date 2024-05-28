@@ -3,6 +3,7 @@ primera linea
 tercera linea
 
 modificacion quinta linea en rama master
+modificacion de quinta linea en rama_conflicto
 
 septima linea
 
