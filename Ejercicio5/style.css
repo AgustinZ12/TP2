@@ -1,0 +1,50 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FDF6E3;
+    color: #586E75;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #d25a26;
+}
+
+label {
+    display: block;
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-size: 1em;
+    margin-top: 5px;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #d27c26;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #c71d06;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-size: 1.5em;
+    color: #e1cf00;
+}
